@@ -1,0 +1,6 @@
+tokenizers
+datasets
+sentencepiece
+gradio
+torch
+pandas
