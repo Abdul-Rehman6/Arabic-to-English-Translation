@@ -1,7 +1,7 @@
 🌐 Neural Machine Translation (Arabic to English)
-Description:
-Developed a Transformer-based Neural Machine Translation model for Arabic to English. Used BPE tokenization, multi-head attention, and positional encoding for efficient translation on a custom-built architecture.
 
-Tech Stack:
-Python PyTorch Transformer BPE Tokenization NLP Deep Learning
+**Overview:**  
+Built a custom Transformer-based NMT system for translating Arabic to English. Implemented Byte Pair Encoding (BPE), positional encoding, and multi-head attention to improve translation accuracy.
 
+**Tech Stack:**  
+`Python`, `PyTorch`, `NLP`, `Transformer`, `BPE Tokenization`, `Deep Learning`
